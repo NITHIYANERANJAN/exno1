@@ -162,4 +162,4 @@ sns.boxplot(no_outliers)
 
 
 # Result
-          <<include your Result here>>
+Thus the given data  successfully performed data cleaning and saved the cleaned data to a file.
